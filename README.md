@@ -1,3 +1,5 @@
+**IN PROGRESS. NOT YET READY FOR USE.**
+
 See the demo [here](http://marvelapp.github.io/devices.css/)
 
 # Usage
